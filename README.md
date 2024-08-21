@@ -1,6 +1,6 @@
-# VideoTranscriberTool
+# Video Transcriber Tool
 
-**VideoTranscriberTool** is a Python-based tool that automatically transcribes videos into text using OpenAI's Whisper model.
+**Video Transcriber Tool** is a Python-based tool that automatically transcribes videos into text using OpenAI's Whisper model.
 
 ## Features
 
