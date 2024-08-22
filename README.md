@@ -18,7 +18,7 @@
 1. Clone this repository:
    ```bash
    git clone https://github.com/yourusername/VideoTranscriberTool.git
-   cd VideoTranscriberTool
+   cd Video-Transcriber-Tool
 
 ## Usage
 Modify the input_directory and output_directory paths in transcribe_videos.py to match your directories.
